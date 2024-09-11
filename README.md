@@ -1,5 +1,4 @@
 <div align="center">
-  
 
   <br />
   <br />
@@ -42,7 +41,7 @@ git clone https://github.com/Vikash810/Web-Music-Player.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [LinkedIn](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [LinkedIn](www.linkedin.com/in/vikash-kumar5).
 
 ### License
 
